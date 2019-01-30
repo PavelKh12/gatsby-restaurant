@@ -20,6 +20,7 @@ const DefaultHeader = styled(IndexHeader)`
   min-height: 60vh;
 `
 
+
 HomeHeader.defaultProps = {
   img: img,
 }
